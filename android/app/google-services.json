@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "974244852969",
+    "firebase_url": "https://lagoseventsapp.firebaseio.com",
+    "project_id": "lagoseventsapp",
+    "storage_bucket": "lagoseventsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974244852969:android:e5969010e6bbaf97e26c78",
+        "android_client_info": {
+          "package_name": "com.DHive.lagos_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974244852969-9ed4qn8vlghr8sp09sm6jhc6fd83g5be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmxNce8R9iHoBE9zuH2Umkc30P-PQW1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974244852969-9ed4qn8vlghr8sp09sm6jhc6fd83g5be.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974244852969-dqj97v17nc86820hk0c4nk1lgv5lg651.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lagosEvents"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974244852969:android:30b5967d3eedfeebe26c78",
+        "android_client_info": {
+          "package_name": "com.example.lagos_events_cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974244852969-flbdrbkcis311o090s1trejjtovidkft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lagos_events_cms",
+            "certificate_hash": "5f43a12720aef5d79589ec130733d3bbd629bcbc"
+          }
+        },
+        {
+          "client_id": "974244852969-9ed4qn8vlghr8sp09sm6jhc6fd83g5be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmxNce8R9iHoBE9zuH2Umkc30P-PQW1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974244852969-9ed4qn8vlghr8sp09sm6jhc6fd83g5be.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974244852969-dqj97v17nc86820hk0c4nk1lgv5lg651.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lagosEvents"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
